@@ -1,6 +1,15 @@
 h1{
-    background-color: red;
+    background-color: lightblue;
+    margin-bottom: 8px;
     color:white;
+}
+
+ul .list{
+    display:inline-block;
+    padding:8px;
+    background-color: aqua;
+    width:500;
+    height:375;
 }
 
 p{
